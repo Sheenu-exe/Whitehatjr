@@ -1,6 +1,6 @@
 
 # Educational App Dashboard
-
+Deployed at https://whitehatjr.vercel.app/
 ## Introduction
 
 Welcome to the Educational App Dashboard! This project serves as an internship assignment, showcasing a React-based educational app dashboard with a unique focus on a sliding sidebar and webcam integration. Due to time constraints, the primary feature implemented is the video section with webcam functionality.
